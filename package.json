@@ -1,0 +1,13 @@
+{
+  "name": "openai-realtime-twilio-demo",
+  "version": "1.0.0",
+  "description": "Combine OpenAI's Realtime API and Twilio's phone calling capability to build an AI calling assistant.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
